@@ -9,7 +9,7 @@ input{
     color: grey;
     font-size: 20px;
     border: 1px grey solid;
-    padding-left: 10px;
+    padding-left: 15px;
 }
 input::placeholder {
     padding-left: 20px;
