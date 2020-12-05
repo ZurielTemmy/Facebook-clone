@@ -9,13 +9,11 @@ input{
     color: grey;
     font-size: 20px;
     border: 1px grey solid;
+    padding-left: 10px;
 }
 input::placeholder {
     padding-left: 20px;
 }
-input[type="text"] {
-    padding-left: 10px;
-}    
 .btn-one{
     width: 400px;
     height: 52px;
