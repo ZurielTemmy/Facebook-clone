@@ -14,8 +14,7 @@ input::placeholder {
     padding-left: 20px;
 }
 .input[type="text"] {
-    box-sizing: border-box;
-    padding-left: 10px;
+    padding-left: 30px;
 }    
 .btn-one{
     width: 400px;
